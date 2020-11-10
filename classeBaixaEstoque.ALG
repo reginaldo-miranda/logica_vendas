@@ -1,6 +1,8 @@
 Algoritmo "semnome"
+// Disciplina   : [Linguagem e Lógica de Programação] 
+// Professor   : Antonio Carlos Nicolodi 
 
-// Descrição   : classe para biaxar produtos do estoque
+// Descrição   : classe para biaxar produtos do estoque multiloja
 // Autor(a)    : Reginaldo Miranda
 // Data atual  : 09/11/2020
 Var
